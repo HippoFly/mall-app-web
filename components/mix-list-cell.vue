@@ -75,6 +75,7 @@
 </script>
 
 <style lang='scss'>
+	@import '@/uni.scss';
 
 	.icon .mix-list-cell.b-b:after{
 		left: 90upx;
